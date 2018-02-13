@@ -1,5 +1,5 @@
 
-###REQUIREMENT
+### REQUIREMENT
 
 Update your local package index
 `sudo apt-get update`
@@ -14,13 +14,13 @@ Create a symbolic link
 `sudo ln -s /usr/bin/nodejs /usr/bin/node`
 
 
-###INSTALL GITBOOK
+### INSTALL GITBOOK
 
 `sudo npm install gitbook-cli -g`
 
 
 
-###CREATE A BOOK
+### CREATE A BOOK
 
 Setup a boilerplate book
 `gitbook init ./directory`
